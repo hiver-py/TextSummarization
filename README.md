@@ -18,13 +18,24 @@ In this project the goal is to fine-tune two pre-trained networks from the Huggi
 ## Data: 
 The data set used in this project is the CNN/Daily Mail summarization dataset. It consists of 311 971 unique news articles that is written by journalists at CNN, and the Daily Mail. The data set is split into 287 113 articles in the training set, 13 368 in the validation set and 11 490 in the test set. Each observation in the data set consists of three columns: an ID, the news article, and a highlight written by the articles author which summarizes the main points of the article.
 
-
+##
 
 ## Results: 
 
 An excerpt of the results for both models are shown, only displaying the Precision, Recall and F-measure for the Rouge-Lsum metric. 
 
 ### T5-Small:
+
+ | Highlight | Summary |
+ | --- | --- |
+|  A lawyer for Dr. Anthony Moschetto says the charges against him are baseless .
+Moschetto, 54, was arrested for selling drugs and weapons, prosecutors say .
+Authorities allege Moschetto hired accomplices to burn down the practice of former associate . | Dr. Anthony Moschetto faces criminal solicitation, conspiracy, burglary, arson, criminal prescription sale and weapons charges. He is accused of selling heroin and oxycodone pills from Moschetto. He is accused of trying to take out a rival doctor on Long Island. |
+|  "No challenge poses more of a public threat than climate change," the President says .
+He credits the Clean Air Act with making Americans "a lot" healthier.| Obama took part in a roundtable discussion this week on climate change. He says the issue is a public health issue that affects all of us. Obama says the Clean Air Act and its amendments have reduced early deaths. Obama says the issue is a public health issue that affects all of us. |
+|  Raul Reyes: In seeking Latino vote, Marco Rubio his own worst enemy on two key issues: immigration reform, Cuba relations .
+He says on health care, climate change and other issues, he breaks from Latinos' positions. Polls show they don't favor him .| Marco Rubio is seeking the Republican presidential nomination. He says Rubio has embraced a typical conservative approach to immigration. Rubio has embraced a typical conservative approach to immigration. He says President Obama's executive action on immigration should be ended. |
+
 
 | Rouge-1 | Low | Mid | High |
 | --- | ---:| ---: | ---: |
@@ -51,7 +62,7 @@ An excerpt of the results for both models are shown, only displaying the Precisi
 
 
 
-
+##
 
 ## Conclusion:
 
