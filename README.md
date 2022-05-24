@@ -33,7 +33,7 @@ A short excerpt of the results for both models are shown, only displaying the Pr
 | Raul Reyes: In seeking Latino vote, Marco Rubio his own worst enemy on two key issues: immigration reform, Cuba relations. He says on health care, climate change and other issues, he breaks from Latinos' positions. Polls show they don't favor him .| Marco Rubio is seeking the Republican presidential nomination. He says Rubio has embraced a typical conservative approach to immigration. Rubio has embraced a typical conservative approach to immigration. He says President Obama's executive action on immigration should be ended. |
 
 
-| Rouge-1 | Low | Mid | High |
+| Rouge-Lsum | Low | Mid | High |
 | --- | ---:| ---: | ---: |
 | Precision |0.40 | 0.41 | 0.41 |
 | Recall | 0.27 | 0.27 |  0.28 |
@@ -50,7 +50,7 @@ A short excerpt of the results for both models are shown, only displaying the Pr
 | Raul Reyes: In seeking Latino vote, Marco Rubio his own worst enemy on two key issues: immigration reform, Cuba relations. He says on health care, climate change and other issues, he breaks from Latinos' positions. Polls show they don't favor him. | Ruben Navarrette: Marco Rubio is running on optimistic message that he embodies the promise of the American Dream. He says Rubio has been his own worst enemy on what could have been his two signature issues: immigration reform and Cuba relations. Navarrette says Rubio's retreat on immigration means he has missed an opportunity to set himself apart from most of |
 
 
-| Rouge-1 | Low | Mid | High |
+| Rouge-Lsum | Low | Mid | High |
 | --- | ---:| ---: | ---: |
 | Precision | 0.38 | 0.38  | 0.39 |
 | Recall | 0.39 | 0.39  | 0.40 |
