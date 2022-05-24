@@ -22,7 +22,7 @@ The data set used in this project is the CNN/Daily Mail summarization dataset. I
 
 ## Results: 
 
-An excerpt of the results for both models are shown, only displaying the Precision, Recall and F-measure for the Rouge-Lsum metric. 
+A short excerpt of the results for both models are shown, only displaying the Precision, Recall and F-measure for the Rouge-Lsum metric. 
 
 ### T5-Small:
 
