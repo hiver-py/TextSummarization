@@ -38,7 +38,11 @@ An excerpt of the results for both models are shown, only displaying the Precisi
 
  Highlight | Summary 
  --- | --- 
-A lawyer for Dr. Anthony Moschetto says the charges against him are baseless. Moschetto, 54, was arrested for selling drugs and weapons, prosecutors say.   Authorities allege Moschetto hired accomplices to burn down the practice of former associate .  | "None of anything in this case has any evidentiary value," Randy Zelin says. Dr. Anthony Moschetto, 54, pleaded not guilty to all charges Wednesday. Two other men -- identified as James Chmela, 43, and James Kalamaras, 41 -- were named as accomplices. |  "No challenge poses more of a public threat than climate change," the President says. He credits the Clean Air Act with making Americans "a lot" healthier. | President Barack Obama took part in a roundtable discussion this week on climate change. He said the air was so bad that it prevented him from running outside. Obama credits the Clean Air Act with making Americans "a lot" healthier. |
+A lawyer for Dr. Anthony Moschetto says the charges against him are baseless. Moschetto, 54, was arrested for selling drugs and weapons, prosecutors say.   Authorities allege Moschetto hired accomplices to burn down the practice of former associate .  | "None of anything in this case has any evidentiary value," Randy Zelin says. Dr. Anthony Moschetto, 54, pleaded not guilty to all charges Wednesday. Two other men -- identified as James Chmela, 43, and James Kalamaras, 41 -- were named as accomplices. 
+
+"No challenge poses more of a public threat than climate change," the President says. He credits the Clean Air Act with making Americans "a lot" healthier. | President Barack Obama took part in a roundtable discussion this week on climate change. He said the air was so bad that it prevented him from running outside. Obama credits the Clean Air Act with making Americans "a lot" healthier. 
+
+
 
 | Rouge-1 | Low | Mid | High |
 | --- | ---:| ---: | ---: |
