@@ -38,8 +38,7 @@ An excerpt of the results for both models are shown, only displaying the Precisi
 
  Highlight | Summary 
  --- | --- 
-A lawyer for Dr. Anthony Moschetto says the charges against him are baseless. Moschetto, 54, was arrested for selling drugs and weapons, prosecutors say.
-Authorities allege Moschetto hired accomplices to burn down the practice of former associate .  | "None of anything in this case has any evidentiary value," Randy Zelin says. Dr. Anthony Moschetto, 54, pleaded not guilty to all charges Wednesday. Two other men -- identified as James Chmela, 43, and James Kalamaras, 41 -- were named as accomplices.
+A lawyer for Dr. Anthony Moschetto says the charges against him are baseless. Moschetto, 54, was arrested for selling drugs and weapons, prosecutors say.   Authorities allege Moschetto hired accomplices to burn down the practice of former associate .  | "None of anything in this case has any evidentiary value," Randy Zelin says. Dr. Anthony Moschetto, 54, pleaded not guilty to all charges Wednesday. Two other men -- identified as James Chmela, 43, and James Kalamaras, 41 -- were named as accomplices.
 
 | Rouge-1 | Low | Mid | High |
 | --- | ---:| ---: | ---: |
