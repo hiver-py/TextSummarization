@@ -36,8 +36,25 @@ An excerpt of the results for both models are shown, only displaying the Precisi
 
 ### BART:
 
+ Highlight | Summary 
+ --- | --- 
+A lawyer for Dr. Anthony Moschetto says the charges against him are baseless. Moschetto, 54, was arrested for selling drugs and weapons, prosecutors say.
+Authorities allege Moschetto hired accomplices to burn down the practice of former associate .  | "None of anything in this case has any evidentiary value," Randy Zelin says. Dr. Anthony Moschetto, 54, pleaded not guilty to all charges Wednesday. Two other men -- identified as James Chmela, 43, and James Kalamaras, 41 -- were named as accomplices.
+
 | Rouge-1 | Low | Mid | High |
 | --- | ---:| ---: | ---: |
 | Precision | 0.38 | 0.38  | 0.39 |
 | Recall | 0.39 | 0.39  | 0.40 |
 | F-measure   | 0.38  | 0.38  | 0.38 |   
+
+
+
+
+
+## Conclusion:
+
+It is found that news paper articles can be summarized well by using the two different pre-trained transformer networks: T5-Small and BART. 
+
+By testing the different models and fine-tune them on the CNN/daily mail data both are able to produce summaries of the news article of high quality, that captures the context of the articles, and match the highlights written by the news articles author well. 
+
+One benefit of using T5-Small is that it is significantly faster in training compared to BART, without having any noticeable difference in the quality of the generated summaries.
